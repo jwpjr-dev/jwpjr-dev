@@ -12,4 +12,4 @@ Welcome to my github page, Enjoy..!!
 - 👯 I’m looking to collaborate on Node projects
 - 🤔 I’m looking for help with learning C
 - 💬 Ask me about Java!
-- ⚡ Fun fact: I have been coding for 
+- ⚡ Fun fact: I have been coding for 5 years
