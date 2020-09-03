@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**jwpjr-dev/jwpjr-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my github page, Enjoy..!!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=jwpjr-dev&count_private=true&show_icons=true&show_owner=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jwpjr-dev)
+
+- 🔭 I’m currently working on a "brain" in Java
+- 🌱 I’m currently learning C
+- 👯 I’m looking to collaborate on Node projects
+- 🤔 I’m looking for help with learning C
+- 💬 Ask me about Java!
+- ⚡ Fun fact: I have been coding for 
